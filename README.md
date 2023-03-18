@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### WTF
+![snake gif](https://github.com/alakhber/alakhber/blob/output/github-contribution-grid-snake.svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=alakhber)](https://git.io/streak-stats)
 
 <a href="https://github.com/alakhber">
@@ -39,5 +42,6 @@ with:
       "wait": 4,
       "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
     }
+    
+    
 
-![snake gif](https://github.com/alakhber/alakhber/blob/output/github-contribution-grid-snake.gif)
