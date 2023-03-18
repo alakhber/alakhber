@@ -40,6 +40,4 @@ with:
       "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
     }
 
-
-
-![snake gif](https://github.com/alakber/alakber/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/alakhber/alakhber/blob/output/github-contribution-grid-snake.gif)
