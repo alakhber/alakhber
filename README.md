@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/alakhber?template=classic&isocalendar=1&followup=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&introduction=false&introduction.title=false&config.timezone=Asia%2FBaku)
-
-
 ### WTF
 ![snake gif](https://github.com/alakhber/alakhber/blob/output/github-contribution-grid-snake.svg)
 
