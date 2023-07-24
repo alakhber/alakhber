@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### WTF
-![snake gif](https://github.com/alakhber/alakhber/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/alakhber">
   <div> 
