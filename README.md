@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 name: GitHub City
 uses: lowlighter/metrics@latest
@@ -35,5 +35,5 @@ with:
       "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
     }
     
-    
+    -->
 
